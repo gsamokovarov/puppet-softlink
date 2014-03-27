@@ -1,4 +1,4 @@
-name         'puppet-softlink'
+name         'gsamokovarov-softlink'
 version      '0.1.0'
 source       'git://github.com/gsamokovarov/puppet-softlink.git'
 author       'Genadi Samokovarov' 
